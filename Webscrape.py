@@ -2,7 +2,7 @@ import requests
 import bs4
 from replit import db
 
-bigboys_URL = 'https://www.bigboys.ph/FUNKO-c16020004?offset=210'
+bigboys_URL = 'https://www.bigboys.ph/FUNKO-c16020004'
 filbarstore_URL = 'https://shop.filbars.online/collections/funko'
 
 headers = {
